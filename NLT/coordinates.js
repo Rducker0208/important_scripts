@@ -1,4 +1,5 @@
 var locations = [
+    // park
     { lat: 51.455, lng: 5.406 },
     { lat: 51.456, lng: 5.406 },
     { lat: 51.454, lng: 5.407 },
@@ -90,13 +91,15 @@ var locations = [
     { lat: 51.458, lng: 5.451 },
     { lat: 51.459, lng: 5.451 },
     { lat: 51.459, lng: 5.452 },
+
+    // woonwijk
     { lat: 51.46, lng: 5.452 },
     { lat: 51.461, lng: 5.453 },
     { lat: 51.461, lng: 5.454 },
     { lat: 51.462, lng: 5.454 },
     { lat: 51.461, lng: 5.457 },
 
-
+    // kruisstraat
     { lat: 51.457, lng: 5.469 },
     { lat: 51.457, lng: 5.47 },
     { lat: 51.453, lng: 5.471 },
